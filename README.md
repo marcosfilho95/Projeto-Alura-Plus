@@ -1,2 +1,2 @@
-# Projeto-Alura-Plus
+# Alura-Plus
 Desenvolvimento plataforma Alura Plus utilizando HTML/CSS
