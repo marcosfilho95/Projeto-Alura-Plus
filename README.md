@@ -10,11 +10,11 @@ Toda a estilização que foi usada no projeto baseado no Figma.
 
 Inter:
 
-    `<link rel="preconnect" href="https://fonts.googleapis.com">`
+    <link rel="preconnect" href="https://fonts.googleapis.com">
     
-    `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>`
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     
-    `<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">`
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
 ## Cores
 
