@@ -8,6 +8,7 @@ Toda a estilização que foi usada no projeto baseado no Figma.
 
 ## Fonte
 
+```html
 Inter:
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,6 +16,7 @@ Inter:
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+```
 
 ## Cores
 
