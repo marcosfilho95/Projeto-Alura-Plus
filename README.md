@@ -16,13 +16,13 @@ Inter:
 
 ## Cores
 
-Fonte principal: '#FFFFFF'
+Fonte principal: `#FFFFFF`;
 
-Fonte alternativa: '#C0C0C0'
+Fonte alternativa: `#C0C0C0`;
 
-Botao: '#167BF7'
+Botao: `#167BF7`;
 
-Cor de fundo: '#00030C'
+Cor de fundo: `#00030C`;
 
 ## Imagens
 
